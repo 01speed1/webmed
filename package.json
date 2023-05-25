@@ -2,7 +2,7 @@
   "name": "webmed",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://01speed1.github.io/webmed",
+  "homepage": "https://01speed1.github.io/webmed",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
